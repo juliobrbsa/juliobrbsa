@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Júlio! 👋</h1>
-  <h3>Graduando em Ciência da Computação 🎓 | Desenvolvedor Fullstack</h3>
+  <h3>Graduando em Ciência da Computação | Desenvolvedor Fullstack</h3>
   
   <p>
     <em>"Transformando café em código e problemas complexos em soluções simples."</em>
@@ -19,8 +19,6 @@
 ### 👨‍💻 Sobre Mim
 
 Atualmente estou finalizando minha graduação em **Ciência da Computação**. Tenho foco no desenvolvimento de aplicações web reativas e seguras.
-
-🌱 **Estou aprendendo:** - Arquitetura de Software avançada e Segurança da Informação.
 
 ---
 
@@ -49,20 +47,11 @@ Minhas ferramentas favoritas para tirar ideias do papel:
 
 ---
 
-### 🏆 Minhas Conquistas
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juliobrbsa&theme=dracula&no-frame=true&margin-w=15" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF" />
   
   <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliobrbsa&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <br>
+  
   <img src="https://komarev.com/ghpvc/?username=juliobrbsa&style=flat-square&color=blue" alt="Contador de Views"/>
   <br>
   <sub><i>Obrigado pela visita!</i></sub>
