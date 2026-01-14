@@ -20,8 +20,6 @@
 
 Atualmente estou finalizando minha graduação em **Ciência da Computação**. Tenho foco no desenvolvimento de aplicações web reativas e seguras.
 
-🔭 **No momento estou trabalhando em:** - Um sistema completo de gestão para **Colônia de Férias** (Meu TCC), utilizando **React, Firebase e TailwindCSS**.
-
 🌱 **Estou aprendendo:** - Arquitetura de Software avançada e Segurança da Informação.
 
 ---
@@ -51,11 +49,14 @@ Minhas ferramentas favoritas para tirar ideias do papel:
 
 ---
 
-### ⚡ GitHub Stats
+### 🏆 Minhas Conquistas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliobrbsa&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobrbsa&layout=compact&theme=dracula"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=juliobrbsa&theme=dracula&no-frame=true&margin-w=15" />
+  
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliobrbsa&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
