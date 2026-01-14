@@ -54,7 +54,7 @@ Minhas ferramentas favoritas para tirar ideias do papel:
 ### ⚡ GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliobrbsa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliobrbsa&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliobrbsa&layout=compact&theme=dracula"/>
 </div>
 
