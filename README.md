@@ -20,6 +20,8 @@
 
 Atualmente estou finalizando minha graduação em **Ciência da Computação**. Tenho foco no desenvolvimento de aplicações web reativas e seguras.
 
+🔭 **No momento estou trabalhando em:** - Um sistema completo de gestão para **Colônia de Férias** (Meu TCC), utilizando **React, Firebase e TailwindCSS**.
+
 🌱 **Estou aprendendo:** - Arquitetura de Software avançada e Segurança da Informação.
 
 ---
@@ -60,7 +62,7 @@ Minhas ferramentas favoritas para tirar ideias do papel:
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_DO_GITHUB&style=flat-square&color=blue" alt="Contador de Views"/>
+  <img src="https://komarev.com/ghpvc/?username=juliobrbsa&style=flat-square&color=blue" alt="Contador de Views"/>
   <br>
   <sub><i>Obrigado pela visita!</i></sub>
 </div>
